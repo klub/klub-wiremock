@@ -1,0 +1,16 @@
+{
+  "name": "klub-wiremock",
+  "version": "0.1.0",
+  "author": "klub",
+  "summary": "Module for installing Wiremock",
+  "license": "Apache 2.0",
+  "source": "http://wiremock.org/",
+  "project_page": "https://github.com/klub/klub-wiremock",
+  "issues_url": "https://github.com/klub/klub-wiremock/issues",
+  "dependencies": [
+    {"version_requirement":">= 1.0.0","name":"puppetlabs-stdlib"},
+    {"version_requirement":">= 1.3.0","name":"puppetlabs-java"}
+
+  ]
+}
+
